@@ -1,1 +1,1 @@
-Hello! I lets code something good. 
+Hello! Lets code something good. 
