@@ -28,25 +28,11 @@ Component library development, dashboard design, API integration
 
 ---
 
-## 🧩 Hackaton milestones
-
-🏆 **1st Place – Codicon 2024 Hackathon**  
-Built an MVP image and album storage platform with a team, delivered in under 48 hours.
-
----
-
 ## 🚀 Current Goals
 
 - Deepen my backend expertise (API design, data architecture, scalability)
 - Gain hands-on experience with cloud infrastructure, DevOps tools, and automation pipelines
 - Achieve the **AWS Solutions Architect – Associate** certification (in progress)
-
----
-
-## 🤝 Let's Connect
-
-- [LinkedIn](https://linkedin.com/in/alfredoprograma)
-- 📧 alfredoprograma.dev@gmail.com
 
 ---
 
