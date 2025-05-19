@@ -6,20 +6,20 @@ I'm currently focused on **shifting my career toward DevOps and Backend Developm
 
 ---
 
-## 🔧 Tech Stack & Skills
+## 🔧 Tech stack & skills
 
-**Languages & Frameworks:**  
+**Languages & frameworks:**  
 TypeScript, React, Next.js, Node.js, Express, NestJS, Go, Rust
 
-**Tools & Platforms:**  
+**Tools & platforms:**  
 Docker, Git, PostgreSQL, MongoDB, AWS, Terraform
 
-**Other Skills:**  
+**Other skills:**  
 Component library development, dashboard design, API integration
 
 ---
 
-## 📍 A Bit About My Experience
+## 📍 A bit about my experience
 
 - 🏦 Led frontend initiatives for financial tools used by banks and insurance companies in Chile.
 - 🔁 Developed reusable components to improve development speed and maintainability.
@@ -28,7 +28,7 @@ Component library development, dashboard design, API integration
 
 ---
 
-## 🚀 Current Goals
+## 🚀 Current goals
 
 - Deepen my backend expertise (API design, data architecture, scalability)
 - Gain hands-on experience with cloud infrastructure, DevOps tools, and automation pipelines
