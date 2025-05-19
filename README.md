@@ -9,7 +9,7 @@ I'm currently focused on **shifting my career toward DevOps and Backend Developm
 ## 🔧 Tech Stack & Skills
 
 **Languages & Frameworks:**  
-TypeScript, Node.js, React, Go, Rust
+TypeScript, React, Next.js, Node.js, Express, NestJS Go, Rust
 
 **Tools & Platforms:**  
 Docker, Git, PostgreSQL, MongoDB, AWS, Terraform
